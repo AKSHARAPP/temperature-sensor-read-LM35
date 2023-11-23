@@ -1,5 +1,5 @@
 #include <Arduino.h>
-//#include <util/delay.h>
+#include <util/delay.h>
 #define TEMP_SENSOR_PIN A0
 void setup()
 {
